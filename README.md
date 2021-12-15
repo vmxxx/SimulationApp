@@ -1,3 +1,6 @@
+MAMP_MAMP_PRO_SETUP_5.0.2.exe  -  https://www.mamp.info/en/downloads/ (Lielā poga "MAMP & MAMP PRO 5.0.4 (recommended, Windows10)"
+UnityHubSetupBeta.exe          -  https://unity.com/download          (Lielā zilā poga "Download for Windows(beta)"
+
 Lai uzstaditu front-end aplikaciju:
 1. Palaidiet "UnityHubSetupBeta.exe";
 2. Izveidojiet jaunu projektu ar nosaukumu "Simulation_App_FirstTest";
