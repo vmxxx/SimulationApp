@@ -4,7 +4,7 @@ UnityHubSetupBeta.exe          -  https://unity.com/download          (Lielā zi
 Lai uzstaditu front-end aplikaciju:
 1. Palaidiet "UnityHubSetupBeta.exe";
 2. Izveidojiet jaunu projektu ar nosaukumu "Simulation_App_FirstTest";
-3. Parkopejiet "Assets" no sis direktorijas uz "C:\Users\"Jusu Lietotajs"\Simulation_App_FirstTest";
+3. Parkopejiet "Assets" no sis direktorijas uz "C:\Users\\"Jusu Lietotajs"\Simulation_App_FirstTest";
 
 
 Lai uzstaditu MAMP serveri:
